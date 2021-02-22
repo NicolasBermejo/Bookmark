@@ -5,7 +5,7 @@ As a User
 So I can easily access websites
 I want to view my Bookmark list
 ```
-![](images/screenshot.png)
+<img src="images/screenshot.png" width=500>
 
 ## Using SQL
 ```
